@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "617bedb334f9a24e1e520b64",
+        "name": "HEALTHCARE CENTER",
+        "about": "Our goal is to provide a patient-centered medical home for all patients",
+        "description": "Quis eiusmod laborum incididunt incididunt nulla cupidatat enim reprehenderit nostrud sint irure. Minim id ex esse nulla magna elit est eu reprehenderit laboris tempor voluptate. Adipisicing et eu nisi ullamco irure cupidatat. Magna laborum eiusmod aute labore elit minim minim reprehenderit esse. Quis nulla ullamco laborum proident duis exercitation. Elit ea est do ex ullamco sit consectetur.\r\nNisi tempor nulla amet aliqua deserunt voluptate consectetur commodo nostrud ullamco magna ea ullamco proident. Do aute dolore quis deserunt sint officia dolor deserunt ad veniam occaecat cillum. Nostrud sunt tempor officia consequat commodo aliqua commodo irure velit. Tempor adipisicing laborum irure consequat ea id enim excepteur quis dolor ullamco ex laborum.\r\n",
+        "serviceImage": "https://i.ibb.co/C877CZv/s-1.jpg"
+    },
+    {
+        "_id": "617bedb3439a0a40695c29e6",
+        "name": "IMMEDIATE CARE",
+        "about": "Effective and affordable treatment for non-life threatening illnesses",
+        "description": "Laborum pariatur mollit esse ullamco ex sunt labore consectetur consectetur voluptate ut magna consectetur. Exercitation nulla nisi Lorem cillum laboris et quis laborum cupidatat. Proident do dolore laborum adipisicing excepteur ut nostrud nulla duis cupidatat consequat nisi. Velit labore fugiat in fugiat mollit elit ut ea proident elit ut laborum proident officia. Fugiat labore incididunt aliquip sint culpa eiusmod anim. Elit occaecat eiusmod cupidatat duis.\r\nProident sunt voluptate cillum adipisicing excepteur sit. Id sunt ullamco dolor eu magna. Deserunt commodo aliqua sunt ea ut adipisicing pariatur deserunt ullamco deserunt adipisicing. Enim sunt cillum duis qui ipsum dolor occaecat eu quis dolore cupidatat. Pariatur ea in est fugiat Lorem cupidatat tempor cillum Lorem. Sint est in deserunt voluptate excepteur in cillum.\r\n",
+        "serviceImage": "https://i.ibb.co/tmLPnMZ/s-2.jpg"
+    },
+    {
+        "_id": "617bedb36766dbf2345ad8f4",
+        "name": "DIAGNOSTIC CENTER",
+        "about": "Offers a wide array of reliable lab and diagnostic imaging services",
+        "description": "Occaecat dolore ipsum eiusmod anim sunt labore. Consectetur sit velit Lorem duis ut. Eiusmod officia in nulla ex sunt ullamco duis esse in mollit.\r\nCillum quis sunt sint Lorem proident commodo Lorem velit Lorem. Irure commodo ipsum non qui sit excepteur id cillum laborum. Est laborum labore enim aute.\r\n",
+        "serviceImage": "https://i.ibb.co/D53bZZw/s-3.jpg"
+    },
+    {
+        "_id": "617bedb36f3e182f6f232dfd",
+        "name": "PEDIATRIC SERVICES",
+        "about": "Dedicated to helping you and your child stay healthy through every milestone",
+        "description": "Pariatur aute amet dolor ullamco culpa ea consequat laboris fugiat ullamco consequat aliquip irure. Ad esse nostrud dolor nulla nulla est dolore exercitation non officia deserunt consectetur. Anim dolore duis consectetur pariatur dolore nulla excepteur ut veniam eiusmod cupidatat cillum. Sit veniam aute laborum Lorem est aute commodo non officia.\r\nProident qui exercitation fugiat nostrud irure velit duis dolore deserunt id. Cillum exercitation in incididunt est consectetur fugiat occaecat nulla elit labore adipisicing reprehenderit irure adipisicing. Elit ipsum reprehenderit nisi veniam esse mollit irure laboris officia anim eu. Anim velit id aute velit duis. Aliquip eu ipsum culpa aute aliqua laboris enim est est. Labore enim exercitation consequat dolore enim nisi ullamco ullamco cillum anim excepteur nulla. Sit cillum fugiat enim consequat nulla ut pariatur fugiat veniam.\r\n",
+        "serviceImage": "https://i.ibb.co/2vm1dv2/s-4.jpg"
+    },
+    {
+        "_id": "617bedb3ddb54b7c36b3ee48",
+        "name": "PHYSICAL THERAPY",
+        "about": "Reduce pain, restore function to the body and prevent future injury",
+        "description": "Enim commodo sunt amet minim enim sit non deserunt do deserunt. Duis quis sint adipisicing eu nostrud adipisicing sunt excepteur amet minim in et. Et dolor est do in ullamco.\r\nNostrud irure occaecat laborum nostrud velit. Consectetur consectetur exercitation nulla consectetur laborum eiusmod excepteur do ipsum nostrud nulla excepteur ullamco. Duis proident veniam esse Lorem pariatur aliqua ut id irure nulla pariatur esse. Elit ad voluptate velit velit consectetur tempor aliquip sint aute ad aute.\r\n",
+        "serviceImage": "https://i.ibb.co/dWPzsd3/s-5.jpg"
+    },
+    {
+        "_id": "617bedb37b7cc0422daf6463",
+        "name": "OCCUPATIONAL HEALTH",
+        "about": "Occupational health team keep people well at work physically and mentally",
+        "description": "Dolore qui ea labore dolore dolor incididunt velit nulla in voluptate labore nisi. Amet sunt incididunt Lorem nulla. Veniam occaecat Lorem cillum commodo duis mollit velit consequat. Ea culpa amet adipisicing reprehenderit aliqua qui ullamco.\r\nAnim excepteur dolore et magna. Cupidatat est qui reprehenderit sit laboris ex fugiat veniam do. Laborum fugiat fugiat veniam ea ullamco.\r\n",
+        "serviceImage": "https://i.ibb.co/ZSzjwsK/s-6.jpg"
+    }
+]
